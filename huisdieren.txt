@@ -1,2 +1,4 @@
 mino
 rex
+bambi
+t-rex
