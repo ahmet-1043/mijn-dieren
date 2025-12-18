@@ -2,3 +2,6 @@ mino
 rex
 bambi
 t-rex
+
+Luna
+max
